@@ -4,6 +4,7 @@ import Router from '@/router'
 import App from "@/App";
 import Store from './store'
 import vueScrollTo from 'vue-scrollto'
+import './assets/css/style.scss'
 
 createApp(App)
     .use(Router)
